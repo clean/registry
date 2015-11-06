@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Clean\\": "src/"
+            "Clean\\Registry\\": "src/"
         }
     },
     "scripts": {

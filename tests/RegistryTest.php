@@ -1,6 +1,6 @@
 <?php namespace Test\Clean\Registry;
 
-use Clean\Registry;
+use Clean\Registry\Registry as Registry;
 
 class TestCase extends \PHPUnit_Framework_TestCase
 {
