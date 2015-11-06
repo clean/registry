@@ -1,8 +1,8 @@
 # Clean\Registry
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/clean/data/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/clean/registry/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/clean/data/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/clean/registry/?branch=master)
-[![Build Status](https://travis-ci.org/clean/data.svg?branch=master)](https://travis-ci.org/clean/registry)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/clean/registry/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/clean/registry/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/clean/registry/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/clean/registry/?branch=master)
+[![Build Status](https://travis-ci.org/clean/registry.svg?branch=master)](https://travis-ci.org/clean/registry)
 
 Simple implementation of registry pattern
 
