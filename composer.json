@@ -1,0 +1,22 @@
+{
+    "name": "clean/registry",
+    "description": "Simple registry pattern implementation",
+    "keywords": ["registry"],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.*",
+        "scrutinizer/ocular": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Clean\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}
