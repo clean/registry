@@ -1,8 +1,9 @@
 # Clean\Registry
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/clean/registry/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/clean/registry/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/clean/registry/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/clean/registry/?branch=master)
 [![Build Status](https://travis-ci.org/clean/registry.svg?branch=master)](https://travis-ci.org/clean/registry)
+[![Code Climate](https://codeclimate.com/github/clean/registry/badges/gpa.svg)](https://codeclimate.com/github/clean/registry)
+[![Test Coverage](https://codeclimate.com/github/clean/registry/badges/coverage.svg)](https://codeclimate.com/github/clean/registry/coverage)
+[![Issue Count](https://codeclimate.com/github/clean/registry/badges/issue_count.svg)](https://codeclimate.com/github/clean/registry)
 
 Simple implementation of registry pattern
 

@@ -2,8 +2,11 @@
     bootstrap="vendor/autoload.php"
     colors="true"
 >
+  <logging>
+    <log type="coverage-clover" target="build/logs/clover.xml"/>
+  </logging>
   <testsuites>
-    <testsuite name="main">
+    <testsuite name="all">
       <directory>tests</directory>
     </testsuite>
   </testsuites>
@@ -16,4 +19,3 @@
     </whitelist>
   </filter>
 </phpunit>
-
