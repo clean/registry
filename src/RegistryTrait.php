@@ -1,5 +1,8 @@
 <?php namespace Clean\Registry;
 
+/**
+ * RegistryTrait
+ */
 trait RegistryTrait
 {
     private $data = [];

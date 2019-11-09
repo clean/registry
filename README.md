@@ -5,7 +5,8 @@
 [![Test Coverage](https://codeclimate.com/github/clean/registry/badges/coverage.svg)](https://codeclimate.com/github/clean/registry/coverage)
 [![Issue Count](https://codeclimate.com/github/clean/registry/badges/issue_count.svg)](https://codeclimate.com/github/clean/registry)
 
-Simple implementation of registry pattern
+Basic implementation of registry pattern that implement a central storage for
+objects often used throughout the application. 
 
 ## Installation
 
@@ -28,5 +29,13 @@ $var1 = $registry->get('var1');
 
 if ($registry->has('var1')) {
     ...
+}
+```
+
+or you can extend any class with `ReigistryTrait` to add registry methods to it
+
+```php
+class MyClass {
+	use \Clean\Registry\RegistryTrait;
 }
 ```
